@@ -34,6 +34,15 @@ Beyond academic research, I'm interested in applying statistical methods, data e
 - Survey data analysis
 - Statistical inference and hypothesis testing
 
+### AI & Computational Text Analysis
+- AI-assisted qualitative text analysis
+- Integration of large language models (LLMs) into research workflows
+- Computational analysis of political discourse and textual data
+- Development of AI-integrated qualitative research methods
+- Combining qualitative interpretation with computational approaches
+
+*Currently developing and refining AI-assisted approaches to qualitative text analysis.*
+
 ### Tools & Technologies
 - RStudio
 - Git & GitHub
@@ -49,6 +58,7 @@ Beyond academic research, I'm interested in applying statistical methods, data e
 - Comparative politics
 - Political communication and social media
 - Computational social science
+- AI-assisted qualitative research
 - Causal inference and quantitative methodology
 - Applied data analytics
 
@@ -56,9 +66,12 @@ Beyond academic research, I'm interested in applying statistical methods, data e
 
 ## 📚 Teaching
 
-I contribute to quantitative methods education, including teaching statistical programming and data analysis using R.
+I contribute to teaching and curriculum development at the University of Tartu, supporting courses in:
 
-My teaching materials emphasize reproducibility, statistical reasoning, data visualization, and the practical implementation of quantitative research methods.
+- **Quantitative Methods** — Statistical programming, data analysis, visualization, and reproducible research using R.
+- **Comparative Politics** — Supporting instruction in comparative political institutions, political systems, and cross-national political analysis.
+
+My teaching emphasizes analytical reasoning, methodological rigor, and connecting theoretical concepts with empirical evidence.
 
 ---
 
@@ -66,4 +79,4 @@ My teaching materials emphasize reproducibility, statistical reasoning, data vis
 
 - SQL for data querying, transformation, and analytics
 - Expanding my data engineering and analytical workflows
-
+- Developing AI-integrated approaches to qualitative text analysis
